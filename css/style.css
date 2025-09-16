@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Verdana, sans-serif;
-    background-color:black;
-    color:white;
+    background-color: #000000;
+    color: #FFFFFF;
     margin: 20px 20px 0 20px;
 }
 h1 {
@@ -11,7 +11,7 @@ h1 {
 }
 h2 {
     font-size: 30px; 
-    color: #0d0d0d;
+    color: #0D0D0D;
 }
 p {
     font-size: 24px;
@@ -49,7 +49,7 @@ div {
 }
 .blue h2,
 .blue p {
-    color: #c4c4c4;
+    color: #C4C4C4;
 }
 .yellow {
    background-color: #FFFF00;
